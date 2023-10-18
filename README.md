@@ -1,4 +1,4 @@
-# android_chat_app-WhatsApp_clone
+# Android Chat App
 
 * java is used for the backend
 * Firebase is used for real time communication and verification purpuse
